@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VictorS80
-- 👀 I’m interested in Machine Learning, Deep Learning, AI, Python
+- 👀 I’m interested in Machine Learning, Deep Learning, AI, Python, Cloud computing, App development, CI/CD
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me ...
